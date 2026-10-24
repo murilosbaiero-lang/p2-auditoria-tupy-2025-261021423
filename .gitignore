@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+tmp/
+soffice_profile_*/
+soffice_convert_*/
+*.inspect.ndjson
+~$*.docx
+~$*.xlsx
+
