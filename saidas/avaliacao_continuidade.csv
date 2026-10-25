@@ -1,0 +1,10 @@
+classification,factor,amount_or_ratio,period,source,audit_relevance
+Indicador adverso,Prejuízo líquido consolidado,-654552000.0,2025,"DF 2025, p. 20",Pressiona patrimônio e cobertura de obrigações.
+Indicador adverso,Resultado antes do financeiro e tributos,-156481000.0,2025,"DF 2025, p. 20",Evidencia perda operacional no exercício.
+Indicador adverso,Dívida líquida/EBITDA ajustado,3.35,2025,"Relatório anual 2025, p. 15","Aumento frente a 1,81x em 2024."
+Indicador adverso,Waivers e garantias de imobilizado,620000000.0,Q4 2025 a Q3 2027,"DF 2025, Nota 13e e Nota 17h","Exige inspeção dos termos, classificação e projeções."
+Fator mitigante,Caixa e equivalentes,1853156000.0,31/12/2025,"DF 2025, p. 18",Reserva de liquidez relevante.
+Fator mitigante,Caixa gerado nas atividades operacionais,915137000.0,2025,"DF 2025, p. 23",Geração operacional positiva.
+Fator mitigante,Liquidez corrente,2.3992,31/12/2025,Cálculo a partir das DFs,Ativo circulante excede o passivo circulante.
+Fator mitigante,Adimplência com cláusulas restritivas,1.0,31/12/2025,"DF 2025, Nota 17h",Administração declara cumprimento após waivers.
+Informação posterior ao relatório,Financiamento BNDES contratado,600000000.0,27/07/2026,"ITR 2T26, Nota 31",Não integra a evidência disponível em 19/03/2026; usado apenas como acompanhamento posterior.

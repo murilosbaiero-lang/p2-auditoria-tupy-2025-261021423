@@ -1,0 +1,14 @@
+{
+  "seed": 261021423,
+  "records": 520000,
+  "published_balance_brl": 2525157000,
+  "generated_balance_brl": 2525157000,
+  "gross_cost_brl": 9174411000,
+  "accumulated_depreciation_brl": 6649254000,
+  "inserted_exception_records": 2220,
+  "inserted_net_misstatement_brl": 53000000,
+  "inserted_absolute_misstatement_brl": 61000000,
+  "reconciliation_difference_brl": 0,
+  "source": "Tupy S.A., Demonstrações Financeiras 2025, Nota 13, páginas 46 a 48",
+  "nature": "Registros individualizados e erros inteiramente sintéticos; totais agregados ancorados em fonte pública."
+}

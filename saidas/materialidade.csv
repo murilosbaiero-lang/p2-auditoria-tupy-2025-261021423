@@ -1,0 +1,5 @@
+metric,basis_brl,percentage,amount_brl,rationale
+Ativo total consolidado,9391641000,1.0,9391641000,Saldo público em 31/12/2025
+Materialidade global,9391641000,0.005,46958205,"0,5% do ativo total; entidade industrial intensiva em ativos e resultado líquido volátil/prejuízo"
+Materialidade de execução,46958205,0.7,32870744,"70% da materialidade global, considerando riscos significativos e dispersão internacional"
+Limite claramente trivial,46958205,0.05,2347910,5% da materialidade global para acumulação de distorções

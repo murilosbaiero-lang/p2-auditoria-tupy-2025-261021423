@@ -1,0 +1,300 @@
+asset_id,entity,plant_city,asset_class,book_cost_brl,accumulated_depreciation_brl,net_book_value_brl,selection_type,misstatement_brl_book_minus_audit,absolute_misstatement_brl,tainting,projected_misstatement_brl
+AT-0002084,"Technocast, S.A. de C.V.",Ramos Arizpe,"Máquinas, instalações e equipamentos",143190,77533,65657,Sistemática MUS,0,0,0.0,0.0
+AT-0004673,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",66582,42722,23860,Sistemática MUS,0,0,0.0,0.0
+AT-0007104,MWM - Tupy do Brasil Ltda.,São Paulo,"Máquinas, instalações e equipamentos",44945,12076,32869,Sistemática MUS,0,0,0.0,0.0
+AT-0009232,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",13975,10986,2989,Sistemática MUS,0,0,0.0,0.0
+AT-0012075,MWM - Tupy do Brasil Ltda.,São Paulo,"Máquinas, instalações e equipamentos",4184,2633,1551,Sistemática MUS,0,0,0.0,0.0
+AT-0014475,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",10424,2587,7837,Sistemática MUS,0,0,0.0,0.0
+AT-0016930,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",190867,104026,86841,Sistemática MUS,0,0,0.0,0.0
+AT-0019434,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",65891,20569,45322,Sistemática MUS,0,0,0.0,0.0
+AT-0021844,Tupy Minas Gerais Ltda.,Betim,"Máquinas, instalações e equipamentos",57127,41525,15602,Sistemática MUS,0,0,0.0,0.0
+AT-0023973,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",157235,84084,73151,Sistemática MUS,0,0,0.0,0.0
+AT-0026759,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",1025050,589745,435305,Sistemática MUS,25266,25266,0.05804206246195197,490185.01779342885
+AT-0029116,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",65223,17533,47690,Sistemática MUS,0,0,0.0,0.0
+AT-0031435,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",2351843,1405737,946106,Sistemática MUS,33681,33681,0.03559960511824257,300650.809570455
+AT-0033319,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",214400,165178,49222,Sistemática MUS,0,0,0.0,0.0
+AT-0035659,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",122518,55595,66923,Sistemática MUS,0,0,0.0,0.0
+AT-0038034,Tupy Minas Gerais Ltda.,Betim,"Máquinas, instalações e equipamentos",21594,11053,10541,Sistemática MUS,0,0,0.0,0.0
+AT-0040327,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",180366,109784,70582,Sistemática MUS,0,0,0.0,0.0
+AT-0043168,Tupy Minas Gerais Ltda.,Betim,"Máquinas, instalações e equipamentos",73980,18000,55980,Sistemática MUS,0,0,0.0,0.0
+AT-0045557,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,"Máquinas, instalações e equipamentos",547770,271712,276058,Sistemática MUS,0,0,0.0,0.0
+AT-0047935,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",29029,14073,14956,Sistemática MUS,0,0,0.0,0.0
+AT-0050178,"Technocast, S.A. de C.V.",Ramos Arizpe,"Máquinas, instalações e equipamentos",200503,62447,138056,Sistemática MUS,0,0,0.0,0.0
+AT-0052172,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",84750,38538,46212,Sistemática MUS,0,0,0.0,0.0
+AT-0054282,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",267145,108940,158205,Sistemática MUS,0,0,0.0,0.0
+AT-0056768,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",65288,47824,17464,Sistemática MUS,0,0,0.0,0.0
+AT-0059053,"Technocast, S.A. de C.V.",Ramos Arizpe,"Máquinas, instalações e equipamentos",32259,30106,2153,Sistemática MUS,0,0,0.0,0.0
+AT-0061421,MWM - Tupy do Brasil Ltda.,São Paulo,"Máquinas, instalações e equipamentos",46679,40980,5699,Sistemática MUS,0,0,0.0,0.0
+AT-0063656,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,"Máquinas, instalações e equipamentos",10389,9291,1098,Sistemática MUS,0,0,0.0,0.0
+AT-0065961,MWM - Tupy do Brasil Ltda.,São Paulo,"Máquinas, instalações e equipamentos",180851,125430,55421,Sistemática MUS,0,0,0.0,0.0
+AT-0068309,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",35231,17314,17917,Sistemática MUS,0,0,0.0,0.0
+AT-0070897,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",244310,53393,190917,Sistemática MUS,0,0,0.0,0.0
+AT-0073121,MWM - Tupy do Brasil Ltda.,São Paulo,"Máquinas, instalações e equipamentos",74945,61144,13801,Sistemática MUS,0,0,0.0,0.0
+AT-0075285,Tupy Minas Gerais Ltda.,Betim,"Máquinas, instalações e equipamentos",3547,2812,735,Sistemática MUS,0,0,0.0,0.0
+AT-0077889,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",69251,43146,26105,Sistemática MUS,0,0,0.0,0.0
+AT-0080153,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",12817,9288,3529,Sistemática MUS,0,0,0.0,0.0
+AT-0082426,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",166123,117943,48180,Sistemática MUS,0,0,0.0,0.0
+AT-0084959,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",13550,10896,2654,Sistemática MUS,0,0,0.0,0.0
+AT-0087269,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",40568,29697,10871,Sistemática MUS,0,0,0.0,0.0
+AT-0089452,"Technocast, S.A. de C.V.",Ramos Arizpe,"Máquinas, instalações e equipamentos",692743,298713,394030,Sistemática MUS,22870,22870,0.05804126589345989,490178.29050077416
+AT-0091719,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",56147,21284,34863,Sistemática MUS,0,0,0.0,0.0
+AT-0093995,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",191862,91857,100005,Sistemática MUS,0,0,0.0,0.0
+AT-0096308,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",1184,480,704,Sistemática MUS,0,0,0.0,0.0
+AT-0098913,Tupy Minas Gerais Ltda.,Betim,"Máquinas, instalações e equipamentos",1727,1342,385,Sistemática MUS,0,0,0.0,0.0
+AT-0101561,Tupy Minas Gerais Ltda.,Betim,"Máquinas, instalações e equipamentos",31741,15181,16560,Sistemática MUS,0,0,0.0,0.0
+AT-0103844,"Technocast, S.A. de C.V.",Ramos Arizpe,"Máquinas, instalações e equipamentos",155524,127600,27924,Sistemática MUS,0,0,0.0,0.0
+AT-0106249,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",617676,555152,62524,Sistemática MUS,0,0,0.0,0.0
+AT-0108484,MWM - Tupy do Brasil Ltda.,São Paulo,"Máquinas, instalações e equipamentos",58533,35045,23488,Sistemática MUS,0,0,0.0,0.0
+AT-0110597,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",23664,7834,15830,Sistemática MUS,0,0,0.0,0.0
+AT-0113049,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",77067,65735,11332,Sistemática MUS,0,0,0.0,0.0
+AT-0115406,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",215205,105846,109359,Sistemática MUS,0,0,0.0,0.0
+AT-0117604,MWM - Tupy do Brasil Ltda.,São Paulo,"Máquinas, instalações e equipamentos",139864,95573,44291,Sistemática MUS,0,0,0.0,0.0
+AT-0119391,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,"Máquinas, instalações e equipamentos",21281,16848,4433,Sistemática MUS,0,0,0.0,0.0
+AT-0121489,MWM - Tupy do Brasil Ltda.,São Paulo,"Máquinas, instalações e equipamentos",41280,12371,28909,Sistemática MUS,0,0,0.0,0.0
+AT-0123443,Tupy Agroenergética Ltda.,Ouro Verde do Oeste,"Máquinas, instalações e equipamentos",94610,79336,15274,Sistemática MUS,0,0,0.0,0.0
+AT-0125856,Tupy Minas Gerais Ltda.,Betim,"Máquinas, instalações e equipamentos",33091,18051,15040,Sistemática MUS,0,0,0.0,0.0
+AT-0127900,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,"Máquinas, instalações e equipamentos",103283,76480,26803,Sistemática MUS,0,0,0.0,0.0
+AT-0130262,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",102462,100224,2238,Sistemática MUS,0,0,0.0,0.0
+AT-0132674,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",266055,185641,80414,Sistemática MUS,0,0,0.0,0.0
+AT-0135332,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",128752,60991,67761,Sistemática MUS,0,0,0.0,0.0
+AT-0137970,Tupy Minas Gerais Ltda.,Betim,"Máquinas, instalações e equipamentos",350795,333659,17136,Sistemática MUS,0,0,0.0,0.0
+AT-0139949,MWM - Tupy do Brasil Ltda.,São Paulo,"Máquinas, instalações e equipamentos",1148,656,492,Sistemática MUS,0,0,0.0,0.0
+AT-0142317,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",11139,7791,3348,Sistemática MUS,0,0,0.0,0.0
+AT-0144461,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",7662,4399,3263,Sistemática MUS,0,0,0.0,0.0
+AT-0146946,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",26426,19777,6649,Sistemática MUS,0,0,0.0,0.0
+AT-0149553,Tupy Minas Gerais Ltda.,Betim,"Máquinas, instalações e equipamentos",375431,300742,74689,Sistemática MUS,0,0,0.0,0.0
+AT-0151963,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",99259,72923,26336,Sistemática MUS,0,0,0.0,0.0
+AT-0154493,MWM - Tupy do Brasil Ltda.,São Paulo,"Máquinas, instalações e equipamentos",192772,61087,131685,Sistemática MUS,0,0,0.0,0.0
+AT-0156345,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",83621,72991,10630,Sistemática MUS,0,0,0.0,0.0
+AT-0158605,Tupy Agroenergética Ltda.,Ouro Verde do Oeste,"Máquinas, instalações e equipamentos",75345,28259,47086,Sistemática MUS,0,0,0.0,0.0
+AT-0160937,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",106393,72622,33771,Sistemática MUS,0,0,0.0,0.0
+AT-0163452,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",309945,231596,78349,Sistemática MUS,0,0,0.0,0.0
+AT-0165840,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",30638,20715,9923,Sistemática MUS,0,0,0.0,0.0
+AT-0167965,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",155399,96532,58867,Sistemática MUS,0,0,0.0,0.0
+AT-0170114,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",13736,12953,783,Sistemática MUS,0,0,0.0,0.0
+AT-0172334,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",745415,413457,331958,Sistemática MUS,19267,19267,0.05804047499984938,490171.6111344302
+AT-0174501,MWM - Tupy do Brasil Ltda.,São Paulo,"Máquinas, instalações e equipamentos",16213,13587,2626,Sistemática MUS,0,0,0.0,0.0
+AT-0176335,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,"Máquinas, instalações e equipamentos",1683912,1033274,650638,Sistemática MUS,128440,128440,0.19740623818467412,1667163.0240658766
+AT-0178724,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",8855,7691,1164,Sistemática MUS,0,0,0.0,0.0
+AT-0180651,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",65428,40729,24699,Sistemática MUS,0,0,0.0,0.0
+AT-0183226,Tupy Materials & Components B.V.,Roterdã,"Máquinas, instalações e equipamentos",19704,9810,9894,Sistemática MUS,0,0,0.0,0.0
+AT-0185600,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",15890,9485,6405,Sistemática MUS,0,0,0.0,0.0
+AT-0187938,MWM - Tupy do Brasil Ltda.,São Paulo,"Máquinas, instalações e equipamentos",68289,42070,26219,Sistemática MUS,0,0,0.0,0.0
+AT-0190708,"Technocast, S.A. de C.V.",Ramos Arizpe,"Máquinas, instalações e equipamentos",284536,129492,155044,Sistemática MUS,0,0,0.0,0.0
+AT-0193477,Tupy Minas Gerais Ltda.,Betim,"Máquinas, instalações e equipamentos",250094,128853,121241,Sistemática MUS,0,0,0.0,0.0
+AT-0195984,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",1083,498,585,Sistemática MUS,0,0,0.0,0.0
+AT-0198314,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",184920,100040,84880,Sistemática MUS,0,0,0.0,0.0
+AT-0200911,MWM - Tupy do Brasil Ltda.,São Paulo,"Máquinas, instalações e equipamentos",74820,73209,1611,Sistemática MUS,0,0,0.0,0.0
+AT-0203377,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",207262,102058,105204,Sistemática MUS,0,0,0.0,0.0
+AT-0205721,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",61688,46167,15521,Sistemática MUS,0,0,0.0,0.0
+AT-0208043,Tupy Minas Gerais Ltda.,Betim,"Máquinas, instalações e equipamentos",1784,821,963,Sistemática MUS,0,0,0.0,0.0
+AT-0210606,Tupy Minas Gerais Ltda.,Betim,"Máquinas, instalações e equipamentos",226344,79229,147115,Sistemática MUS,0,0,0.0,0.0
+AT-0212785,Tupy Minas Gerais Ltda.,Betim,"Máquinas, instalações e equipamentos",102780,65709,37071,Sistemática MUS,0,0,0.0,0.0
+AT-0215257,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",38638,33898,4740,Sistemática MUS,0,0,0.0,0.0
+AT-0217877,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",81716,52717,28999,Sistemática MUS,0,0,0.0,0.0
+AT-0220022,"Technocast, S.A. de C.V.",Ramos Arizpe,"Máquinas, instalações e equipamentos",11778,7519,4259,Sistemática MUS,0,0,0.0,0.0
+AT-0222424,"Technocast, S.A. de C.V.",Ramos Arizpe,"Máquinas, instalações e equipamentos",11788,7467,4321,Sistemática MUS,0,0,0.0,0.0
+AT-0224563,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",172305,78103,94202,Sistemática MUS,0,0,0.0,0.0
+AT-0226842,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",223101,154261,68840,Sistemática MUS,0,0,0.0,0.0
+AT-0228979,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",125410,91191,34219,Sistemática MUS,0,0,0.0,0.0
+AT-0231465,Tupy Minas Gerais Ltda.,Betim,"Máquinas, instalações e equipamentos",4682,3366,1316,Sistemática MUS,0,0,0.0,0.0
+AT-0233569,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",35502,25070,10432,Sistemática MUS,0,0,0.0,0.0
+AT-0235938,Tupy Minas Gerais Ltda.,Betim,"Máquinas, instalações e equipamentos",760165,608007,152158,Sistemática MUS,0,0,0.0,0.0
+AT-0238051,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",536445,357735,178710,Sistemática MUS,0,0,0.0,0.0
+AT-0240503,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,"Máquinas, instalações e equipamentos",176109,140917,35192,Sistemática MUS,0,0,0.0,0.0
+AT-0242229,Tupy Minas Gerais Ltda.,Betim,"Máquinas, instalações e equipamentos",92289,54972,37317,Sistemática MUS,0,0,0.0,0.0
+AT-0244796,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",112359,25331,87028,Sistemática MUS,0,0,0.0,0.0
+AT-0247115,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",169989,93247,76742,Sistemática MUS,0,0,0.0,0.0
+AT-0249519,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,"Máquinas, instalações e equipamentos",414089,327465,86624,Sistemática MUS,0,0,0.0,0.0
+AT-0251972,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",71773,61474,10299,Sistemática MUS,0,0,0.0,0.0
+AT-0253732,MWM - Tupy do Brasil Ltda.,São Paulo,"Máquinas, instalações e equipamentos",5153,2343,2810,Sistemática MUS,0,0,0.0,0.0
+AT-0255695,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",79076,42366,36710,Sistemática MUS,0,0,0.0,0.0
+AT-0257665,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",21824,15865,5959,Sistemática MUS,0,0,0.0,0.0
+AT-0260168,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",17401,12472,4929,Sistemática MUS,0,0,0.0,0.0
+AT-0262153,Tupy Agroenergética Ltda.,Ouro Verde do Oeste,"Máquinas, instalações e equipamentos",4532,3389,1143,Sistemática MUS,0,0,0.0,0.0
+AT-0264397,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",52175,42373,9802,Sistemática MUS,0,0,0.0,0.0
+AT-0266966,MWM - Tupy do Brasil Ltda.,São Paulo,"Máquinas, instalações e equipamentos",83713,77757,5956,Sistemática MUS,0,0,0.0,0.0
+AT-0269355,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Máquinas, instalações e equipamentos",171096,101130,69966,Sistemática MUS,0,0,0.0,0.0
+AT-0271534,Tupy Minas Gerais Ltda.,Betim,"Máquinas, instalações e equipamentos",20201,9879,10322,Sistemática MUS,0,0,0.0,0.0
+AT-0273914,MWM - Tupy do Brasil Ltda.,São Paulo,"Máquinas, instalações e equipamentos",7358,2685,4673,Sistemática MUS,0,0,0.0,0.0
+AT-0276161,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",24390,14453,9937,Sistemática MUS,0,0,0.0,0.0
+AT-0278617,Tupy S.A.,Joinville,"Máquinas, instalações e equipamentos",34377,31423,2954,Sistemática MUS,0,0,0.0,0.0
+AT-0280126,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Edificações,185115,98193,86922,Sistemática MUS,0,0,0.0,0.0
+AT-0280308,MWM - Tupy do Brasil Ltda.,São Paulo,Edificações,1460858,1119742,341116,Sistemática MUS,-73546,73546,0.2156040760327865,1820849.9726512474
+AT-0280537,Tupy S.A.,Joinville,Edificações,787397,642133,145264,Sistemática MUS,0,0,0.0,0.0
+AT-0280866,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,Edificações,81890,19336,62554,Sistemática MUS,0,0,0.0,0.0
+AT-0281033,"Technocast, S.A. de C.V.",Ramos Arizpe,Edificações,5124770,2512693,2612077,Sistemática MUS,72172,72172,0.027630119632767333,233345.78595826039
+AT-0281278,Tupy S.A.,Joinville,Edificações,532812,269415,263397,Sistemática MUS,101156,101156,0.3840438577508476,3243381.390322933
+AT-0281373,"Technocast, S.A. de C.V.",Ramos Arizpe,Edificações,5693586,1109094,4584492,Sistemática MUS,126670,126670,0.027630106018289486,233345.67097935054
+AT-0281626,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Edificações,407874,150623,257251,Sistemática MUS,0,0,0.0,0.0
+AT-0281864,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Edificações,1709430,1176402,533028,Sistemática MUS,105223,105223,0.1974061400151587,1667162.1949908296
+AT-0282055,"Technocast, S.A. de C.V.",Ramos Arizpe,Edificações,70170,50516,19654,Sistemática MUS,0,0,0.0,0.0
+AT-0282347,"Technocast, S.A. de C.V.",Ramos Arizpe,Edificações,199391,160111,39280,Sistemática MUS,0,0,0.0,0.0
+AT-0282600,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Edificações,311017,140824,170193,Sistemática MUS,0,0,0.0,0.0
+AT-0282815,Tupy S.A.,Joinville,Edificações,174866,115794,59072,Sistemática MUS,0,0,0.0,0.0
+AT-0283017,Tupy S.A.,Joinville,Edificações,2521170,989016,1532154,Sistemática MUS,42334,42334,0.027630381802351462,233348.00006983412
+AT-0283202,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,Edificações,2822604,1329165,1493439,Sistemática MUS,41264,41264,0.027630187774659695,233346.3614397871
+AT-0283392,MWM - Tupy do Brasil Ltda.,São Paulo,Edificações,3138735,1425255,1713480,Sistemática MUS,47344,47344,0.027630319583537597,233347.47461072588
+AT-0283704,MWM - Tupy do Brasil Ltda.,São Paulo,Edificações,82336,69520,12816,Sistemática MUS,0,0,0.0,0.0
+AT-0283926,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Edificações,1836992,395257,1441735,Sistemática MUS,39835,39835,0.027629904247313132,233343.96695462367
+AT-0284165,MWM - Tupy do Brasil Ltda.,São Paulo,Edificações,135896,68642,67254,Sistemática MUS,0,0,0.0,0.0
+AT-0284477,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,Edificações,1164977,551468,613509,Sistemática MUS,21840,21840,0.035598499777509375,300641.4745908904
+AT-0284759,MWM - Tupy do Brasil Ltda.,São Paulo,Edificações,46484,34627,11857,Sistemática MUS,0,0,0.0,0.0
+AT-0284966,Tupy S.A.,Joinville,Edificações,440331,247173,193158,Sistemática MUS,0,0,0.0,0.0
+AT-0285273,MWM - Tupy do Brasil Ltda.,São Paulo,Edificações,167754,83816,83938,Sistemática MUS,0,0,0.0,0.0
+AT-0285483,Tupy Minas Gerais Ltda.,Betim,Edificações,81214,38091,43123,Sistemática MUS,0,0,0.0,0.0
+AT-0285711,"Technocast, S.A. de C.V.",Ramos Arizpe,Edificações,57867,16684,41183,Sistemática MUS,0,0,0.0,0.0
+AT-0285961,Tupy S.A.,Joinville,Edificações,473764,272014,201750,Sistemática MUS,0,0,0.0,0.0
+AT-0286271,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Edificações,62241,38364,23877,Sistemática MUS,0,0,0.0,0.0
+AT-0286507,Tupy Minas Gerais Ltda.,Betim,Edificações,184090,150259,33831,Sistemática MUS,0,0,0.0,0.0
+AT-0286718,Tupy S.A.,Joinville,Edificações,656956,216067,440889,Sistemática MUS,-14191,14191,0.03218723987216737,271832.22098288476
+AT-0286917,MWM - Tupy do Brasil Ltda.,São Paulo,Edificações,85389,17065,68324,Sistemática MUS,0,0,0.0,0.0
+AT-0287206,Tupy S.A.,Joinville,Edificações,962743,556221,406522,Sistemática MUS,-36533,36533,0.08986721505847162,758959.2882120569
+AT-0287437,Tupy S.A.,Joinville,Edificações,56378,42399,13979,Sistemática MUS,0,0,0.0,0.0
+AT-0287665,"Technocast, S.A. de C.V.",Ramos Arizpe,Edificações,1770188,636952,1133236,Sistemática MUS,31311,31311,0.027629725847043336,233342.4603034863
+AT-0287858,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Edificações,64610,26590,38020,Sistemática MUS,0,0,0.0,0.0
+AT-0288152,Tupy S.A.,Joinville,Edificações,255011,153101,101910,Sistemática MUS,0,0,0.0,0.0
+AT-0288376,Tupy S.A.,Joinville,Edificações,41976,32228,9748,Sistemática MUS,0,0,0.0,0.0
+AT-0288621,Tupy S.A.,Joinville,Edificações,2158776,1240737,918039,Sistemática MUS,32681,32681,0.03559870550161812,300643.2120011689
+AT-0288879,Tupy Minas Gerais Ltda.,Betim,Edificações,590672,396282,194390,Sistemática MUS,0,0,0.0,0.0
+AT-0289146,"Technocast, S.A. de C.V.",Ramos Arizpe,Edificações,52791,18371,34420,Sistemática MUS,0,0,0.0,0.0
+AT-0289379,Tupy S.A.,Joinville,Edificações,437574,355601,81973,Sistemática MUS,0,0,0.0,0.0
+AT-0289639,Tupy Minas Gerais Ltda.,Betim,Edificações,573775,461731,112044,Sistemática MUS,0,0,0.0,0.0
+AT-0289827,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Edificações,180735,117811,62924,Sistemática MUS,0,0,0.0,0.0
+AT-0290066,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Edificações,1426124,957351,468773,Sistemática MUS,167630,167630,0.35759312076420785,3019995.8931424236
+AT-0290193,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Edificações,48330,38998,9332,Sistemática MUS,0,0,0.0,0.0
+AT-0290488,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Edificações,100098,75599,24499,Sistemática MUS,0,0,0.0,0.0
+AT-0290684,Tupy S.A.,Joinville,Edificações,2338402,1168509,1169893,Sistemática MUS,32324,32324,0.027629877262279542,233343.73905680943
+AT-0290933,Tupy Minas Gerais Ltda.,Betim,Edificações,65747,18157,47590,Sistemática MUS,0,0,0.0,0.0
+AT-0291180,"Technocast, S.A. de C.V.",Ramos Arizpe,Edificações,34829,25270,9559,Sistemática MUS,0,0,0.0,0.0
+AT-0291445,MWM - Tupy do Brasil Ltda.,São Paulo,Edificações,234891,188152,46739,Sistemática MUS,0,0,0.0,0.0
+AT-0291687,Tupy S.A.,Joinville,Edificações,223101,22244,200857,Sistemática MUS,0,0,0.0,0.0
+AT-0291873,Tupy Minas Gerais Ltda.,Betim,Edificações,110444,51343,59101,Sistemática MUS,0,0,0.0,0.0
+AT-0292158,Tupy Minas Gerais Ltda.,Betim,Edificações,620414,222482,397932,Sistemática MUS,-14613,14613,0.03672235457314315,310132.81172861013
+AT-0292465,Tupy S.A.,Joinville,Edificações,453194,407041,46153,Sistemática MUS,0,0,0.0,0.0
+AT-0292706,MWM - Tupy do Brasil Ltda.,São Paulo,Edificações,86023,39741,46282,Sistemática MUS,0,0,0.0,0.0
+AT-0292967,MWM - Tupy do Brasil Ltda.,São Paulo,Edificações,164662,82359,82303,Sistemática MUS,0,0,0.0,0.0
+AT-0293195,MWM - Tupy do Brasil Ltda.,São Paulo,Edificações,1535714,690777,844937,Sistemática MUS,30079,30079,0.03559910383851104,300646.57609211706
+AT-0293386,Tupy Minas Gerais Ltda.,Betim,Edificações,652280,418883,233397,Sistemática MUS,0,0,0.0,0.0
+AT-0293664,Tupy S.A.,Joinville,Edificações,365002,191676,173326,Sistemática MUS,0,0,0.0,0.0
+AT-0293897,Tupy S.A.,Joinville,Edificações,269987,243358,26629,Sistemática MUS,0,0,0.0,0.0
+AT-0294179,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,Edificações,27806,13547,14259,Sistemática MUS,0,0,0.0,0.0
+AT-0294405,Tupy S.A.,Joinville,Edificações,278456,161220,117236,Sistemática MUS,0,0,0.0,0.0
+AT-0294643,"Technocast, S.A. de C.V.",Ramos Arizpe,Edificações,1377848,952550,425298,Sistemática MUS,24685,24685,0.05804165549802726,490181.58084425423
+AT-0294878,MWM - Tupy do Brasil Ltda.,São Paulo,Edificações,109498,12067,97431,Sistemática MUS,0,0,0.0,0.0
+AT-0295008,Tupy Minas Gerais Ltda.,Betim,Terrenos,3630140,0,3630140,Sistemática MUS,100301,100301,0.02763006385428661,233345.31488996255
+AT-0295025,Tupy Minas Gerais Ltda.,Betim,Terrenos,735625,0,735625,Sistemática MUS,26188,26188,0.03559966015293118,300651.2743571747
+AT-0295033,Tupy S.A.,Joinville,Terrenos,1356089,0,1356089,Sistemática MUS,37469,37469,0.02763019241362477,233346.4006174297
+AT-0295055,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Terrenos,2658226,0,2658226,Sistemática MUS,73447,73447,0.02763008111424687,233345.46065621497
+AT-0295076,Tupy S.A.,Joinville,Terrenos,854056,0,854056,Sistemática MUS,30404,30404,0.03559953914029056,300650.2523641428
+AT-0295083,Tupy Minas Gerais Ltda.,Betim,Terrenos,1724270,0,1724270,Sistemática MUS,47642,47642,0.027630243523346112,233346.83225646184
+AT-0295100,Tupy S.A.,Joinville,Terrenos,2158886,0,2158886,Sistemática MUS,59650,59650,0.027629990652586565,233344.69667663387
+AT-0295111,Tupy Minas Gerais Ltda.,Betim,Terrenos,708978,0,708978,Sistemática MUS,25239,25239,0.03559913001531782,300646.79716418026
+AT-0295137,Tupy S.A.,Joinville,Terrenos,1209022,0,1209022,Sistemática MUS,33405,33405,0.02762977017787931,233342.83469251898
+AT-0295156,Tupy Minas Gerais Ltda.,Betim,Terrenos,1043697,0,1043697,Sistemática MUS,28837,28837,0.027629666464500713,233341.95879765626
+AT-0295173,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Terrenos,2107532,0,2107532,Sistemática MUS,58231,58231,0.027629948204819666,233344.3381907619
+AT-0295182,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Terrenos,7622299,0,7622299,Sistemática MUS,210605,210605,0.027630115270996323,233345.74912161625
+AT-0295202,Tupy Minas Gerais Ltda.,Betim,Terrenos,2353661,0,2353661,Sistemática MUS,65032,65032,0.0276301472472034,233346.01917159327
+AT-0295218,Tupy S.A.,Joinville,Terrenos,4043512,0,4043512,Sistemática MUS,111723,111723,0.02763018880616652,233346.37015121413
+AT-0295235,Tupy Minas Gerais Ltda.,Betim,Terrenos,390296,0,390296,Sistemática MUS,98396,98396,0.2521060938364728,2129121.9651967427
+AT-0295246,MWM - Tupy do Brasil Ltda.,São Paulo,Terrenos,783974,0,783974,Sistemática MUS,27909,27909,0.035599394877891356,300649.03401896823
+AT-0295266,Tupy S.A.,Joinville,Terrenos,953886,0,953886,Sistemática MUS,33958,33958,0.035599641885927666,300651.12008609844
+AT-0295275,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,Terrenos,211372,0,211372,Sistemática MUS,0,0,0.0,0.0
+AT-0295294,"Technocast, S.A. de C.V.",Ramos Arizpe,Terrenos,6650549,0,6650549,Sistemática MUS,183755,183755,0.02763004978987449,233345.1961112043
+AT-0295308,Tupy S.A.,Joinville,Terrenos,872919,0,872919,Sistemática MUS,31075,31075,0.035598950188963696,300645.2784692742
+AT-0295322,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,Terrenos,1821980,0,1821980,Sistemática MUS,50341,50341,0.02762983128245096,233343.3507414716
+AT-0295343,Tupy S.A.,Joinville,Terrenos,1933975,0,1933975,Sistemática MUS,53436,53436,0.027630139996639047,233345.95793810388
+AT-0295363,"Technocast, S.A. de C.V.",Ramos Arizpe,Terrenos,1961096,0,1961096,Sistemática MUS,54185,54185,0.02762995794188556,233344.42042360504
+AT-0295384,Tupy S.A.,Joinville,Terrenos,903613,0,903613,Sistemática MUS,32168,32168,0.035599310766888034,300648.3236728518
+AT-0295415,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,Terrenos,87751,0,87751,Sistemática MUS,0,0,0.0,0.0
+AT-0295442,"Technocast, S.A. de C.V.",Ramos Arizpe,Terrenos,1569741,0,1569741,Sistemática MUS,43372,43372,0.027630035782973114,233345.0778181439
+AT-0295460,"Technocast, S.A. de C.V.",Ramos Arizpe,Terrenos,1629064,0,1629064,Sistemática MUS,45011,45011,0.027629976477290027,233344.57696141888
+AT-0295482,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Terrenos,3235129,0,3235129,Sistemática MUS,89387,89387,0.02763011923172152,233345.78257129167
+AT-0295501,Tupy Minas Gerais Ltda.,Betim,Terrenos,498099,0,498099,Sistemática MUS,98328,98328,0.19740653966380178,1667165.5701599554
+AT-0295523,Tupy S.A.,Joinville,Terrenos,327505,0,327505,Sistemática MUS,82566,82566,0.25210607471641655,2129121.803721345
+AT-0295540,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,Terrenos,143437,0,143437,Sistemática MUS,0,0,0.0,0.0
+AT-0295561,MWM - Tupy do Brasil Ltda.,São Paulo,Terrenos,4231992,0,4231992,Sistemática MUS,116930,116930,0.02763001442346772,233344.89742983435
+AT-0295592,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Terrenos,605861,0,605861,Sistemática MUS,119601,119601,0.19740666588540937,1667166.6361444902
+AT-0295617,Tupy S.A.,Joinville,Terrenos,474650,0,474650,Sistemática MUS,119662,119662,0.2521057621405246,2129119.1639113063
+AT-0295632,MWM - Tupy do Brasil Ltda.,São Paulo,Terrenos,254719,0,254719,Sistemática MUS,0,0,0.0,0.0
+AT-0295661,MWM - Tupy do Brasil Ltda.,São Paulo,Terrenos,1548789,0,1548789,Sistemática MUS,42793,42793,0.02762997412817369,233344.55712233004
+AT-0295679,Tupy S.A.,Joinville,Terrenos,1973609,0,1973609,Sistemática MUS,54531,54531,0.027630092890739758,233345.5601127148
+AT-0295696,Tupy S.A.,Joinville,Terrenos,764483,0,764483,Sistemática MUS,27215,27215,0.03559922195784602,300647.5736501959
+AT-0295718,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,Terrenos,3824598,0,3824598,Sistemática MUS,105674,105674,0.027630093411124514,233345.5645075416
+AT-0295733,MWM - Tupy do Brasil Ltda.,São Paulo,Terrenos,283338,0,283338,Sistemática MUS,0,0,0.0,0.0
+AT-0295752,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Terrenos,484582,0,484582,Sistemática MUS,173283,173283,0.35759272940389863,3019992.587971105
+AT-0295779,MWM - Tupy do Brasil Ltda.,São Paulo,Terrenos,1425113,0,1425113,Sistemática MUS,39376,39376,0.027630089684116278,233345.53303168563
+AT-0295793,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Terrenos,676070,0,676070,Sistemática MUS,24068,24068,0.03559986391941663,300652.9952346566
+AT-0299615,Tupy Minas Gerais Ltda.,Betim,Veículos,2543,1834,709,Sistemática MUS,0,0,0.0,0.0
+AT-0303709,Tupy S.A.,Joinville,Veículos,5908,3850,2058,Sistemática MUS,0,0,0.0,0.0
+AT-0344552,MWM - Tupy do Brasil Ltda.,São Paulo,"Móveis, utensílios e outros",593,344,249,Sistemática MUS,0,0,0.0,0.0
+AT-0420337,"Tupy México Saltillo, S.A. de C.V.",Saltillo,"Móveis, utensílios e outros",746,452,294,Sistemática MUS,0,0,0.0,0.0
+AT-0456465,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Direito de uso de ativos,34746,25955,8791,Sistemática MUS,0,0,0.0,0.0
+AT-0465780,Tupy S.A.,Joinville,Direito de uso de ativos,46085,26426,19659,Sistemática MUS,0,0,0.0,0.0
+AT-0474976,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Direito de uso de ativos,5498,4341,1157,Sistemática MUS,0,0,0.0,0.0
+AT-0484129,MWM - Tupy do Brasil Ltda.,São Paulo,Direito de uso de ativos,681,557,124,Sistemática MUS,0,0,0.0,0.0
+AT-0485506,Tupy S.A.,Joinville,Imobilizações em andamento,1664503,0,1664503,Sistemática MUS,45990,45990,0.027629869096060505,233343.67009030384
+AT-0486053,Tupy S.A.,Joinville,Imobilizações em andamento,67529,0,67529,Sistemática MUS,0,0,0.0,0.0
+AT-0486587,Tupy S.A.,Joinville,Imobilizações em andamento,145435,0,145435,Sistemática MUS,0,0,0.0,0.0
+AT-0486748,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,Imobilizações em andamento,7069758,0,7069758,Sistemática MUS,195338,195338,0.02763008295333447,233345.47618793714
+AT-0487234,Tupy S.A.,Joinville,Imobilizações em andamento,12688,0,12688,Sistemática MUS,0,0,0.0,0.0
+AT-0487727,Tupy Minas Gerais Ltda.,Betim,Imobilizações em andamento,198543,0,198543,Sistemática MUS,0,0,0.0,0.0
+AT-0488266,Tupy S.A.,Joinville,Imobilizações em andamento,127234,0,127234,Sistemática MUS,0,0,0.0,0.0
+AT-0488853,"Technocast, S.A. de C.V.",Ramos Arizpe,Imobilizações em andamento,1117904,0,1117904,Sistemática MUS,30888,30888,0.02763027952310753,233347.13628672788
+AT-0489336,"Technocast, S.A. de C.V.",Ramos Arizpe,Imobilizações em andamento,18767,0,18767,Sistemática MUS,0,0,0.0,0.0
+AT-0489909,MWM - Tupy do Brasil Ltda.,São Paulo,Imobilizações em andamento,65121,0,65121,Sistemática MUS,0,0,0.0,0.0
+AT-0490444,Tupy S.A.,Joinville,Imobilizações em andamento,913066,0,913066,Sistemática MUS,32504,32504,0.0355987409453424,300643.5113355116
+AT-0490945,MWM - Tupy do Brasil Ltda.,São Paulo,Imobilizações em andamento,162049,0,162049,Sistemática MUS,0,0,0.0,0.0
+AT-0491305,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,Imobilizações em andamento,3115942,0,3115942,Sistemática MUS,86094,86094,0.02763016769888528,233346.19189302358
+AT-0491928,MWM - Tupy do Brasil Ltda.,São Paulo,Imobilizações em andamento,385713,0,385713,Sistemática MUS,97240,97240,0.25210454405218385,2129108.876739734
+AT-0492452,Tupy Minas Gerais Ltda.,Betim,Imobilizações em andamento,612105,0,612105,Sistemática MUS,21790,21790,0.03559846758317609,300641.20269876317
+AT-0492998,Tupy S.A.,Joinville,Imobilizações em andamento,23169,0,23169,Sistemática MUS,0,0,0.0,0.0
+AT-0493582,Tupy Minas Gerais Ltda.,Betim,Imobilizações em andamento,13132,0,13132,Sistemática MUS,0,0,0.0,0.0
+AT-0494208,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,Imobilizações em andamento,16870,0,16870,Sistemática MUS,0,0,0.0,0.0
+AT-0494726,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Imobilizações em andamento,118690,0,118690,Sistemática MUS,0,0,0.0,0.0
+AT-0495382,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,Imobilizações em andamento,310650,0,310650,Sistemática MUS,119303,119303,0.3840431353613391,3243375.2894971
+AT-0495969,MWM - Tupy do Brasil Ltda.,São Paulo,Imobilizações em andamento,43742,0,43742,Sistemática MUS,0,0,0.0,0.0
+AT-0496444,Tupy Minas Gerais Ltda.,Betim,Imobilizações em andamento,46932,0,46932,Sistemática MUS,0,0,0.0,0.0
+AT-0496910,MWM - Tupy do Brasil Ltda.,São Paulo,Imobilizações em andamento,103922,0,103922,Sistemática MUS,0,0,0.0,0.0
+AT-0497514,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,Imobilizações em andamento,135300,0,135300,Sistemática MUS,0,0,0.0,0.0
+AT-0498095,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Imobilizações em andamento,180792,0,180792,Sistemática MUS,0,0,0.0,0.0
+AT-0498747,Tupy S.A.,Joinville,Imobilizações em andamento,850789,0,850789,Sistemática MUS,30287,30287,0.0355987207168875,300643.3404993093
+AT-0499106,Tupy Minas Gerais Ltda.,Betim,Imobilizações em andamento,7383,0,7383,Sistemática MUS,0,0,0.0,0.0
+AT-0499696,Tupy S.A.,Joinville,Imobilizações em andamento,91313,0,91313,Sistemática MUS,0,0,0.0,0.0
+AT-0500258,MWM - Tupy do Brasil Ltda.,São Paulo,Imobilizações em andamento,100098,0,100098,Sistemática MUS,0,0,0.0,0.0
+AT-0500753,MWM - Tupy do Brasil Ltda.,São Paulo,Imobilizações em andamento,2425,0,2425,Sistemática MUS,0,0,0.0,0.0
+AT-0501350,Tupy S.A.,Joinville,Imobilizações em andamento,1285,0,1285,Sistemática MUS,0,0,0.0,0.0
+AT-0501919,Tupy S.A.,Joinville,Imobilizações em andamento,119298,0,119298,Sistemática MUS,0,0,0.0,0.0
+AT-0502489,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Imobilizações em andamento,209149,0,209149,Sistemática MUS,0,0,0.0,0.0
+AT-0503037,Tupy S.A.,Joinville,Imobilizações em andamento,27362,0,27362,Sistemática MUS,0,0,0.0,0.0
+AT-0503613,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,Imobilizações em andamento,35460,0,35460,Sistemática MUS,0,0,0.0,0.0
+AT-0504190,"Technocast, S.A. de C.V.",Ramos Arizpe,Imobilizações em andamento,29409,0,29409,Sistemática MUS,0,0,0.0,0.0
+AT-0504652,"Technocast, S.A. de C.V.",Ramos Arizpe,Imobilizações em andamento,197060,0,197060,Sistemática MUS,0,0,0.0,0.0
+AT-0505157,Tupy S.A.,Joinville,Imobilizações em andamento,16791,0,16791,Sistemática MUS,0,0,0.0,0.0
+AT-0505675,Tupy S.A.,Joinville,Imobilizações em andamento,46106,0,46106,Sistemática MUS,0,0,0.0,0.0
+AT-0506266,"Technocast, S.A. de C.V.",Ramos Arizpe,Imobilizações em andamento,177609,0,177609,Sistemática MUS,0,0,0.0,0.0
+AT-0506825,Tupy S.A.,Joinville,Imobilizações em andamento,431235,0,431235,Sistemática MUS,108716,108716,0.2521038412930305,2129102.941698946
+AT-0507253,Tupy Minas Gerais Ltda.,Betim,Imobilizações em andamento,13735,0,13735,Sistemática MUS,0,0,0.0,0.0
+AT-0507835,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Imobilizações em andamento,183335,0,183335,Sistemática MUS,0,0,0.0,0.0
+AT-0508364,"Technocast, S.A. de C.V.",Ramos Arizpe,Imobilizações em andamento,15962,0,15962,Sistemática MUS,0,0,0.0,0.0
+AT-0508944,Tupy S.A.,Joinville,Imobilizações em andamento,14827,0,14827,Sistemática MUS,0,0,0.0,0.0
+AT-0509488,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,Imobilizações em andamento,732722,0,732722,Sistemática MUS,26084,26084,0.035598767336042864,300643.73421397986
+AT-0510031,Tupy S.A.,Joinville,Imobilizações em andamento,31308,0,31308,Sistemática MUS,0,0,0.0,0.0
+AT-0510592,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Imobilizações em andamento,162457,0,162457,Sistemática MUS,0,0,0.0,0.0
+AT-0511136,Tupy S.A.,Joinville,Imobilizações em andamento,17372,0,17372,Sistemática MUS,0,0,0.0,0.0
+AT-0511728,Tupy S.A.,Joinville,Imobilizações em andamento,38993,0,38993,Sistemática MUS,0,0,0.0,0.0
+AT-0512276,"Technocast, S.A. de C.V.",Ramos Arizpe,Imobilizações em andamento,9049,0,9049,Sistemática MUS,0,0,0.0,0.0
+AT-0512799,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Imobilizações em andamento,13143,0,13143,Sistemática MUS,0,0,0.0,0.0
+AT-0513243,"Tupy México Saltillo, S.A. de C.V.",Saltillo,Imobilizações em andamento,7179,0,7179,Sistemática MUS,0,0,0.0,0.0
+AT-0513719,Tupy S.A.,Joinville,Imobilizações em andamento,59358,0,59358,Sistemática MUS,0,0,0.0,0.0
+AT-0514359,Tupy S.A.,Joinville,Imobilizações em andamento,6289,0,6289,Sistemática MUS,0,0,0.0,0.0
+AT-0514929,MWM - Tupy do Brasil Ltda.,São Paulo,Imobilizações em andamento,172326,0,172326,Sistemática MUS,0,0,0.0,0.0
+AT-0515523,MWM - Tupy do Brasil Ltda.,São Paulo,Imobilizações em andamento,58501,0,58501,Sistemática MUS,0,0,0.0,0.0
+AT-0515962,Tupy S.A.,Joinville,Imobilizações em andamento,1580498,0,1580498,Sistemática MUS,43669,43669,0.027629898930590233,233343.92205308506
+AT-0516516,Tupy S.A.,Joinville,Imobilizações em andamento,1227,0,1227,Sistemática MUS,0,0,0.0,0.0
+AT-0517109,MWM - Tupy do Brasil Ltda.,São Paulo,Imobilizações em andamento,4925,0,4925,Sistemática MUS,0,0,0.0,0.0
+AT-0517648,Tupy S.A.,Joinville,Imobilizações em andamento,526751,0,526751,Sistemática MUS,188363,188363,0.3575940055168381,3020003.3651802083
+AT-0518255,Tupy S.A.,Joinville,Imobilizações em andamento,68379,0,68379,Sistemática MUS,0,0,0.0,0.0
+AT-0518761,Tupy Minas Gerais Ltda.,Betim,Imobilizações em andamento,26873,0,26873,Sistemática MUS,0,0,0.0,0.0
+AT-0519342,"FUNFRAP - Fundição Portuguesa, S.A.",Aveiro,Imobilizações em andamento,3443,0,3443,Sistemática MUS,0,0,0.0,0.0
+AT-0519901,"Technocast, S.A. de C.V.",Ramos Arizpe,Imobilizações em andamento,18385,0,18385,Sistemática MUS,0,0,0.0,0.0

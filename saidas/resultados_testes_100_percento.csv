@@ -1,0 +1,11 @@
+test_code,procedure,population_records,expected_exceptions,detected_exceptions,true_positives,false_positives,false_negatives,detected_misstatement_brl,test_result,procedure_classification
+E01,Faturas duplicadas por fornecedor e número do documento,520000,120,120,120,0,0,6500000,CONCILIADO,Simulado para fins didáticos
+E02,Início de depreciação mais de 30 dias após a disponibilidade para uso,520000,150,150,150,0,0,4200000,CONCILIADO,Simulado para fins didáticos
+E03,Bens sucateados com valor contábil líquido positivo,520000,80,80,80,0,0,8800000,CONCILIADO,Simulado para fins didáticos
+E04,Indicadores de impairment sem avaliação documentada,520000,80,80,80,0,0,14000000,CONCILIADO,Simulado para fins didáticos
+E05,Taxa de conversão aplicada com desvio superior a 2%,520000,120,120,120,0,0,2500000,CONCILIADO,Simulado para fins didáticos
+E06,Depreciação mensal superior a 110% da política calculada,520000,100,100,100,0,0,-4000000,CONCILIADO,Simulado para fins didáticos
+E07,Manutenção rotineira registrada como ativo,520000,120,120,120,0,0,11000000,CONCILIADO,Simulado para fins didáticos
+E08,Adições antes da transferência de controle até a data-base,520000,100,100,100,0,0,10000000,CONCILIADO,Simulado para fins didáticos
+E09,Adições sem aprovação de CAPEX,520000,600,600,600,0,0,0,CONCILIADO,Simulado para fins didáticos
+E10,Registros sem documento-suporte,520000,750,750,750,0,0,0,CONCILIADO,Simulado para fins didáticos

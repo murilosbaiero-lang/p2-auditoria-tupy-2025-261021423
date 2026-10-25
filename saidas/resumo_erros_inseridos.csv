@@ -1,0 +1,11 @@
+error_code,error_description,assertion,classification,records,net_misstatement_brl,absolute_misstatement_brl
+E01,Fatura duplicada,existência/ocorrência,superavaliação,120,6500000,6500000
+E02,Início tardio da depreciação,avaliação/alocação,superavaliação,150,4200000,4200000
+E03,Bem sucateado sem baixa,existência e avaliação,superavaliação,80,8800000,8800000
+E04,Indicador de impairment sem teste,avaliação/alocação,superavaliação,80,14000000,14000000
+E05,Conversão cambial inconsistente,exatidão e avaliação,superavaliação,120,2500000,2500000
+E06,Depreciação acima da política,avaliação/alocação,subavaliação,100,-4000000,4000000
+E07,Manutenção rotineira capitalizada,classificação e ocorrência,superavaliação,120,11000000,11000000
+E08,Adição reconhecida antes da transferência de controle,corte e direitos,superavaliação,100,10000000,10000000
+E09,Adição sem aprovação de CAPEX,ocorrência/autorização,sem quantificação direta,600,0,0
+E10,Documento-suporte ausente,existência/ocorrência,sem quantificação direta,750,0,0
