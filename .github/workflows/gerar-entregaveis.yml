@@ -62,7 +62,8 @@ jobs:
           split -b 18000000 -d -a 2 --additional-suffix=.part \
             base_simulada/imobilizado_sintetico_tupy_2025.csv.gz \
             base_simulada/partes/imobilizado_sintetico_tupy_2025.csv.gz.part-
-          cp base_simulada/partes/README.md /tmp/partes_readme.md 2>/dev/null || true
+          base_hash="$(awk '$2 == "imobilizado_sintetico_tupy_2025.csv.gz" {print $1}' base_simulada/hashes_sha256.txt)"
+          test -n "$base_hash"
           printf '%s\n' \
             '# Partes da base sintética' \
             '' \
@@ -73,7 +74,7 @@ jobs:
             'python codigo/00_reconstruir_base.py' \
             '```' \
             '' \
-            'SHA-256 esperado: `97ac63d74b5c8abf90c94bb548cbde453b8dbbff72b3cf10cc6cfc5a786d9f7f`.' \
+            "SHA-256 esperado: \`$base_hash\`." \
             > base_simulada/partes/README.md
           rm base_simulada/imobilizado_sintetico_tupy_2025.csv.gz
 
