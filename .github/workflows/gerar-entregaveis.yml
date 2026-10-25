@@ -1,0 +1,85 @@
+name: Gerar entregáveis do dossiê
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/gerar-entregaveis.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gerar-entregaveis
+  cancel-in-progress: false
+
+jobs:
+  gerar-e-publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependências Python
+        run: pip install -r requirements.txt
+
+      - name: Garantir conversor PDF
+        run: |
+          if ! command -v libreoffice >/dev/null 2>&1; then
+            sudo apt-get update
+            sudo apt-get install -y libreoffice-writer fonts-liberation
+          fi
+
+      - name: Restaurar a planilha auditada
+        run: |
+          mkdir -p planilhas
+          base64 --decode planilhas/calculos_auditoria_tupy_2025.xlsx.b64 \
+            > planilhas/calculos_auditoria_tupy_2025.xlsx
+
+      - name: Gerar base, testes, papéis e dossiê
+        run: bash executar_tudo.sh
+
+      - name: Dividir a base para versionamento
+        run: |
+          mkdir -p base_simulada/partes
+          split -b 18000000 -d -a 2 --additional-suffix=.part \
+            base_simulada/imobilizado_sintetico_tupy_2025.csv.gz \
+            base_simulada/partes/imobilizado_sintetico_tupy_2025.csv.gz.part-
+          cp base_simulada/partes/README.md /tmp/partes_readme.md 2>/dev/null || true
+          printf '%s\n' \
+            '# Partes da base sintética' \
+            '' \
+            'As partes são segmentos binários ordenados do mesmo arquivo GZIP.' \
+            'Reconstrua e valide a população de 520.000 registros com:' \
+            '' \
+            '```bash' \
+            'python codigo/00_reconstruir_base.py' \
+            '```' \
+            '' \
+            'SHA-256 esperado: `97ac63d74b5c8abf90c94bb548cbde453b8dbbff72b3cf10cc6cfc5a786d9f7f`.' \
+            > base_simulada/partes/README.md
+          rm base_simulada/imobilizado_sintetico_tupy_2025.csv.gz
+
+      - name: Publicar os produtos gerados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm planilhas/calculos_auditoria_tupy_2025.xlsx.b64
+          git add base_simulada dossie planilhas saidas papeis_trabalho docs
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração a publicar."
+          else
+            git commit -m "Gera entregáveis completos e base sintética [skip ci]"
+            git push
+          fi
