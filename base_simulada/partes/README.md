@@ -7,4 +7,4 @@ Reconstrua e valide a população de 520.000 registros com:
 python codigo/00_reconstruir_base.py
 ```
 
-SHA-256 esperado: `97ac63d74b5c8abf90c94bb548cbde453b8dbbff72b3cf10cc6cfc5a786d9f7f`.
+SHA-256 esperado: `31fc600bcfcb89868b0011683ebb446531b4a28dc0402011aace93b73869ae6e`.
