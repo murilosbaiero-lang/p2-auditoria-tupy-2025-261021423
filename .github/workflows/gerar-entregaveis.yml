@@ -47,6 +47,12 @@ jobs:
           base64 --decode planilhas/calculos_auditoria_tupy_2025.xlsx.b64 \
             > planilhas/calculos_auditoria_tupy_2025.xlsx
 
+      - name: Verificar insumos estáticos
+        run: |
+          test -s base_simulada/dicionario_dados.md
+          test -s fontes/fontes.csv
+          test -s planilhas/calculos_auditoria_tupy_2025.xlsx
+
       - name: Gerar base, testes, papéis e dossiê
         run: bash executar_tudo.sh
 
