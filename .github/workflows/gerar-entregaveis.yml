@@ -44,8 +44,10 @@ jobs:
       - name: Restaurar a planilha auditada
         run: |
           mkdir -p planilhas
-          base64 --decode planilhas/calculos_auditoria_tupy_2025.xlsx.b64 \
-            > planilhas/calculos_auditoria_tupy_2025.xlsx
+          if [ -f planilhas/calculos_auditoria_tupy_2025.xlsx.b64 ]; then
+            base64 --decode planilhas/calculos_auditoria_tupy_2025.xlsx.b64 \
+              > planilhas/calculos_auditoria_tupy_2025.xlsx
+          fi
 
       - name: Verificar insumos estáticos
         run: |
@@ -82,7 +84,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git rm planilhas/calculos_auditoria_tupy_2025.xlsx.b64
+          if [ -f planilhas/calculos_auditoria_tupy_2025.xlsx.b64 ]; then
+            git rm planilhas/calculos_auditoria_tupy_2025.xlsx.b64
+          fi
           git add base_simulada dossie planilhas saidas papeis_trabalho docs
           if git diff --cached --quiet; then
             echo "Nenhuma alteração a publicar."
